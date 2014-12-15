@@ -873,6 +873,8 @@
     <!-- In-call screen: status label for a re-dialing call -->
     <string name="card_title_redialing">Retrying</string>
 
+    <!-- In-call screen: status label for a call in the "alerting" state -->
+    <string name="card_title_alerting">Calling</string>
     <!-- In-call screen: status label for a call in progress -->
     <string name="card_title_in_progress">Current call</string>
     <!-- In-call screen: status label for a conference call -->

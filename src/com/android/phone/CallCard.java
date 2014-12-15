@@ -811,8 +811,11 @@ public class CallCard extends FrameLayout
                 break;
 
             case DIALING:
-            case ALERTING:
                 retVal = context.getString(R.string.card_title_dialing);
+                break;
+
+            case ALERTING:
+                retVal = context.getString(R.string.card_title_alerting);
                 break;
 
             case INCOMING:
